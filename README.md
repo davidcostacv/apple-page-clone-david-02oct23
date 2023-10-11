@@ -2,7 +2,8 @@
 
 # Apple Page
 
-![Uploading image.png…]()
+![image](https://github.com/davidcostacv/apple-page-clone-david-02oct23/assets/110629160/bcce3990-352d-4d0b-ad3d-0e8fe1714c9f)
+
 
 
 Additional description about the project and its features.
